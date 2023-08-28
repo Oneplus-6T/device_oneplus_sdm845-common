@@ -428,12 +428,6 @@
     <!-- Defines custom OEM sensor for pocket detection. -->
     <string name="config_pocketJudgeVendorSensorName">oneplus.sensor.pocket</string>
 
-    <!-- Whether device supports sensor based doze customizations -->
-    <bool name="config_dozePulsePickup">true</bool>
-    <bool name="config_dozePulseTilt">true</bool>
-    <bool name="config_dozePulseProximity">true</bool>
-    <bool name="config_deviceHaveWakeUpProximity">false</bool>
-
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_supportSmartPixels">true</bool>
 
